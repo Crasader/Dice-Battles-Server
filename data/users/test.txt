@@ -1,0 +1,4 @@
+password: test
+secretcode: 1234
+avatar: null
+credit: 3
